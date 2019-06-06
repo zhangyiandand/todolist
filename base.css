@@ -1,0 +1,19 @@
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,form,input,textarea,select{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    background:white;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+a{
+    color: #333333;  /*文字颜色*/
+    text-decoration: none;   /*下划线*/
+}
+*{
+    -webkit-tap-highlight-color: transparent;
+}
